@@ -1,0 +1,15 @@
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.exe
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.deps.json
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.runtimeconfig.json
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.runtimeconfig.dev.json
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.dll
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\bin\Debug\netcoreapp3.1\EBMI.pdb
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.csprojAssemblyReference.cache
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.Form1.resources
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.csproj.GenerateResource.cache
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.AssemblyInfoInputs.cache
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.AssemblyInfo.cs
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.csproj.CoreCompileInputs.cache
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.dll
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.pdb
+C:\Users\emil.asuquo\source\repos\EBMI\EBMI\obj\Debug\netcoreapp3.1\EBMI.genruntimeconfig.cache
